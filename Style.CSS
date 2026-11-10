@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(red,blue,black);
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Hero-name {
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: 3px 3px orange;
+}
+.Tag-line {
+    font-style: italic;
+    color: skyblue;
+    text-transform: capitalize;
+}
+.label {
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: aqua;
+}
+.Power {
+    font-weight: bold;
+    color: lightgreen;
+}
+.Weakness {
+    text-decoration: line-through;
+    color: grey;
+}
+.badge {
+    font-size: 30px;
+    font-weight: bold;
+    color: gold;
+    transform: rotate(15deg);
+}
+.made-by {
+    color: coral;
+    font-style: italic;
+}
